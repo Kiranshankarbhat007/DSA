@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ArraysEasy/obj
+/.vs/DSA/CopilotIndices/17.14.1431.25910
+/.vs/DSA/FileContentIndex
+/DSAPatterns/obj
+/DSAPatterns/.vs/DSAPatterns
+/.vs/DSA/v17
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
